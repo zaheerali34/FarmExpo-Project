@@ -80,3 +80,15 @@
   }
   
 }
+
+.input {
+  background: none;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.input::placeholder {
+  color: white;
+}
