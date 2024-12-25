@@ -10,7 +10,7 @@ export const Home = () => {
       <Header />
 
       <div className="w-[40px] absolute top-[34%] left-[20%] max-sm:top-[24%] max-sm:left-[10%]">
-        <img src='./public/1.png' alt="Image" />
+        {/* <img src='./public/1.png' alt="Image" /> */}
       </div>
       <div className="w-full mt-[2.5rem] px-[5rem] flex items-center justify-between max-md:flex-col max-md:w-full max-md:px-[2rem] max-sm:px-[1rem] max-md:text-center">
         <div className="w-[30%] text-white leading-[3.5rem] max-[992px]:leading-[2.3rem] max-md:w-full max-md:leading-[3.4rem]">
@@ -25,7 +25,7 @@ export const Home = () => {
           </button></NavLink>
         </div>
         <div className="w-[80px] absolute top-[18%] right-[8%] max-sm:w-[60px] max-sm:top-[40%]">
-        <img src='./public/2.png' alt="Image" />
+        {/* <img src='./public/2.png' alt="Image" /> */}
       </div>
         <div className="w-[50%] h-full py-10 text-center max-md:w-full max-md:mt-10">
           <h1 className="text-white text-[25px] uppercase py-4 font-bold">
