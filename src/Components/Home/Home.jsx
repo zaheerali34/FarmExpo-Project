@@ -3,13 +3,14 @@ import Header from "../Header/Header";
 import Table from "./Table";
 import { NavLink } from "react-router-dom";
 import Circle from "./Circle";
+
  
 export const Home = () => {
   return (
     <div className="w-full h-screen max-md:h-[125vh] bg-gradient-to-tl from-[#001C79] to-[#3E0170] relative max-sm:h-full">
       <Header />
 
-      <div className="w-[40px] absolute top-[34%] left-[20%] max-sm:top-[24%] max-sm:left-[10%]">
+      <div className="w-[55px] absolute top-[34%] left-[20%] max-sm:top-[24%] max-sm:left-[10%]">
         <img src='/public/1.png' alt="Image" />
       </div>
       <div className="w-full mt-[2.5rem] px-[5rem] flex items-center justify-between max-md:flex-col max-md:w-full max-md:px-[2rem] max-sm:px-[1rem] max-md:text-center">
@@ -24,7 +25,7 @@ export const Home = () => {
             Start Consignment
           </button></NavLink>
         </div>
-        <div className="w-[80px] absolute top-[18%] right-[8%] max-sm:w-[60px] max-sm:top-[40%]">
+        <div className="w-[100px] absolute top-[24%] right-[8%] max-sm:w-[60px] max-sm:top-[40%]">
         <img src='/public/2.png' alt="Image" />
       </div>
         <div className="w-[50%] h-full py-10 text-center max-md:w-full max-md:mt-10">

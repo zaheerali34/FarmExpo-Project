@@ -1,5 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
+import 'remixicon/fonts/remixicon.css'
 
 function Login() {
   return (
@@ -24,7 +25,7 @@ function Login() {
         </NavLink>
         </div>
 
-        <div className='flex items-center justify-center mt-8 gap-10 w-[25px] max-md:mt-4'>
+        <div className='flex items-center justify-center mt-8 gap-10 max-md:mt-4 w-[30px]'>
           <img src="/public/icon 1.png" alt="" />
           <img src="/public/icon 2.png" alt="" />
           <img src="/public/icon 3.png" alt="" />
