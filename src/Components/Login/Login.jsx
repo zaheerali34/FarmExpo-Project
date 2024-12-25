@@ -26,9 +26,9 @@ function Login() {
         </div>
 
         <div className='flex items-center justify-center mt-8 gap-10 max-md:mt-4 w-[30px]'>
-          <img src="/public/icon 1.png" alt="" />
-          <img src="/public/icon 2.png" alt="" />
-          <img src="/public/icon 3.png" alt="" />
+          <img src="public/icon 1.png" alt="" />
+          <img src="public/icon 2.png" alt="" />
+          <img src="public/icon 3.png" alt="" />
         </div>
       </div>
       <div className='absolute bottom-[5%] right-[25%] z-1 max-sm:bottom-[-4rem]'>
