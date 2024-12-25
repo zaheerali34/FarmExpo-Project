@@ -10,7 +10,7 @@ export const Home = () => {
       <Header />
 
       <div className="w-[40px] absolute top-[34%] left-[20%] max-sm:top-[24%] max-sm:left-[10%]">
-        <img src='./public/1.png' alt="Image" />
+        <img src='../public/1.png' alt="Image" />
       </div>
       <div className="w-full mt-[2.5rem] px-[5rem] flex items-center justify-between max-md:flex-col max-md:w-full max-md:px-[2rem] max-sm:px-[1rem] max-md:text-center">
         <div className="w-[30%] text-white leading-[3.5rem] max-[992px]:leading-[2.3rem] max-md:w-full max-md:leading-[3.4rem]">
