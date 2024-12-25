@@ -4,32 +4,32 @@
 
 @font-face {
   font-family: Jost-Black;
-  src: url(./public/font/Jost-Black.ttf);
+  src: url(/public/font/Jost-Black.ttf);
 }
 
 @font-face {
   font-family: Jost-Bold;
-  src: url(./public/font/Jost-Bold.ttf);
+  src: url(/public/font/Jost-Bold.ttf);
 }
 
 @font-face {
   font-family: Jost-ExtraBold;
-  src: url(./public/font/Jost-ExtraBold.ttf);
+  src: url(/public/font/Jost-ExtraBold.ttf);
 }
 
 @font-face {
   font-family: Jost-Light;
-  src: url(./public/font/Jost-Light.ttf);
+  src: url(/public/font/Jost-Light.ttf);
 }
 
 @font-face {
   font-family: Jost-Medium;
-  src: url(./public/font/Jost-Medium.ttf);
+  src: url(/public/font/Jost-Medium.ttf);
 }
 
 @font-face {
   font-family: Jost-SemiBold;
-  src: url(./public/font/Jost-SemiBold.ttf);
+  src: url(/public/font/Jost-SemiBold.ttf);
 }
 
 /* From Uiverse.io by alexroumi */
