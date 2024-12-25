@@ -6,7 +6,7 @@ import Circle from "./Circle";
  
 export const Home = () => {
   return (
-    <div className="w-full h-screen max-md:h-[125vh] bg-gradient-to-tl from-[#001C79] to-[#3E0170] relative">
+    <div className="w-full h-screen max-md:h-[125vh] bg-gradient-to-tl from-[#001C79] to-[#3E0170] relative max-sm:h-full">
       <Header />
 
       <div className="w-[40px] absolute top-[34%] left-[20%] max-sm:top-[24%] max-sm:left-[10%]">
@@ -27,7 +27,7 @@ export const Home = () => {
         <div className="w-[80px] absolute top-[18%] right-[8%] max-sm:w-[60px] max-sm:top-[40%]">
         <img src='/public/2.png' alt="Image" />
       </div>
-        <div className="w-[50%] h-[60vh] text-center max-md:w-full max-md:mt-10">
+        <div className="w-[50%] h-full py-10 text-center max-md:w-full max-md:mt-10">
           <h1 className="text-white text-[25px] uppercase py-4 font-bold">
             All Consignment
           </h1>
