@@ -25,10 +25,10 @@ function Login() {
         </NavLink>
         </div>
 
-        <div className='flex items-center justify-center mt-8 gap-10 max-md:mt-4'>
-        <i class="ri-google-fill text-[30px] hover:text-white transition duration-[0.3s]"></i>
-        <i class="ri-facebook-circle-fill text-[30px] hover:text-white transition duration-[0.3s]"></i>
-        <i class="ri-twitter-x-line text-[30px] hover:text-white transition duration-[0.3s]"></i>
+        <div className='flex items-center justify-center mt-8 gap-10 max-md:mt-4 w-[30px]'>
+        <img src="/icon 1.png" alt="" />
+        <img src="/icon 2.png" alt="" />
+        <img src="/icon 3.png" alt="" />
         </div>
       </div>
       <div className='absolute bottom-[5%] right-[25%] z-1 max-sm:bottom-[-4rem]'>
